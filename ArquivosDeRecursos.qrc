@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/Icones">
+        <file>salvar.png</file>
+        <file>sair.png</file>
+        <file>carregar.jpg</file>
+        <file>Imagens/adestracao.png</file>
+        <file>Imagens/logo 2.png</file>
+        <file>Imagens/logo a.png</file>
+        <file>Imagens/podio2.png</file>
+        <file>Imagens/podio22.jpg</file>
+        <file>Imagens Prints/01.jpg</file>
+        <file>Imagens Prints/02.jpg</file>
+        <file>Imagens Prints/03.jpg</file>
+        <file>Imagens Prints/04.jpg</file>
+        <file>Imagens Prints/05.jpg</file>
+        <file>Imagens Prints/06.jpg</file>
+        <file>Imagens Prints/07.jpg</file>
+        <file>Imagens Prints/08.jpg</file>
+        <file>Imagens Prints/09.jpg</file>
+        <file>Imagens Prints/10.jpg</file>
+        <file>Imagens Prints/13.jpg</file>
+        <file>Imagens Prints/14.jpg</file>
+        <file>Imagens Prints/15.jpg</file>
+        <file>Imagens Prints/16.jpg</file>
+        <file>Imagens Prints/13_certo.jpg</file>
+        <file>Imagens Prints/14_certo.jpg</file>
+        <file>Imagens Prints/14_certo1.jpg</file>
+    </qresource>
+</RCC>

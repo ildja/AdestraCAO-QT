@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Imagens">
+        <file>husky-siberiano-2-768x512.png</file>
+    </qresource>
+</RCC>

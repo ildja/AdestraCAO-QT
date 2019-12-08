@@ -44,7 +44,7 @@ Temos um quadro de seleção que auxilia na organização desses itens. Selecion
 
 ### Eita!! Errei dados já cadastrados, e agora? Como posso editar?
 
-Você pode alterar os dados clicando duas vezes na célula que deseja editar, aparecerá uma caixa de mensagem perguntando se você quer alterar o dado selecionado. Se "Yes", você pode editar o dado desejado. Já no dado de Média, se você clicar em "Yes", duas caixas de entrada de dados aparecerão e você poderá alterar a nota do primeiro avaliador e do segundo avaliador para recalcular a média.
+Você pode alterar os dados clicando duas vezes na célula que deseja editar, aparecerá uma caixa de mensagem perguntando se você quer alterar o dado selecionado. Se "Yes", você pode editar o dado desejado. 
 
 ![imagem 7](https://github.com/ildja/AdestraCAO-QT/blob/master/Imagens%20Prints/07.jpg)
 
@@ -53,7 +53,7 @@ Você pode alterar os dados clicando duas vezes na célula que deseja editar, ap
 
 ### Ah!! Você também pode excluir dados cadastrados!! Legal né?!
 
-É só clicar no botão Excluir Dados que esta posicionado dentro da tabela de Provas Realizadas, acima do nome do Cachorro. Vai aparecer uma caixa de mensagem onde você deverá digitar o nome do cachorro que deseja excluir os dados. ps.: É preciso digitar o nome do animal que irá ser excluido da mesma forma que esta na tabela.
+É só clicar no botão Excluir Dados que esta posicionado dentro da tabela de Provas Realizadas, acima do nome do Cachorro. Vai aparecer uma caixa de mensagem onde você deverá digitar o nome do cachorro que deseja excluir os dados. ps.: É preciso digitar o nome do animal que irá ser excluido da mesma forma que esta no cadastro.
 
 ![imagem 9](https://github.com/ildja/AdestraCAO-QT/blob/master/Imagens%20Prints/09.jpg) 
 
